@@ -13,3 +13,11 @@ Learn more about the project;
 - [Get Started](https://github.com/fundacionplan21/open-yvy#get-started)
 - [Contribution](https://github.com/fundacionplan21/open-yvy#contributing)
 - [Road Map](https://github.com/fundacionplan21/open-yvy#project-roadmap)
+
+Please join the community to know about the ongoing work and latest updates of the project.
+
+- Slack:
+  - Join the **#open-yvy** slack channel in the **[Call for Code](https://callforcode.org/slack)** workspace.
+<!-- - Public Meeting:
+  - Join our weekly public meeting on every Thursday at 4:30 pm ET on **[Zoom](https://us05web.zoom.us/j/9124577210?pwd=NDFUV1EvdGFLZWpQb3ZYcm10ZEpxdz09)**. -->
+  - ((Public meeting schedule?))
